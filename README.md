@@ -1,5 +1,4 @@
-# ng4-bootstrap
-# Ng4-Material
+# Ng4-Bootstrap
 
 ## About
 
