@@ -1,4 +1,4 @@
-# Ng4-Bootstrap
+# Ng-Bootstrap
 
 ## About
 
