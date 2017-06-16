@@ -2,7 +2,7 @@
 
 ## About
 
-This is an Angular 4 CLI clean project with Bootstrap4 imported and ready to use
+This is an Angular CLI clean project with Bootstrap4 imported and ready to use
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.0.
 
